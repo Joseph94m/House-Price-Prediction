@@ -7,4 +7,4 @@ Our final score on the kaggle submission leaderboard was RMSE= 0.1239. This puts
 
 Competition: https://www.kaggle.com/c/house-prices-advanced-regression-techniques    
 
-This project was done in collaboration with my friend, Mark askew @ https://github.com/Mark-askew
+This project was done in collaboration with my friend, Mark Askew @ https://github.com/Mark-askew
