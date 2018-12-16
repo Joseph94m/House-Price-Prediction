@@ -1,1 +1,6 @@
-# House-Price-Prediction
+# House Price Prediction    
+
+Starting from 79 explanatory variables describing (almost) every aspect of residential homes in Ames, Iowa, we try to predict the final price of each home.    
+
+Our final score on the kaggle submission leaderboard was RMSE= 0.1239. This puts us at about the top 20% in the competition.   
+
